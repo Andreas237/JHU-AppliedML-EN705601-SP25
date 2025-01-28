@@ -3,3 +3,4 @@ numpy
 matplotlib==3.9
 pandas
 seaborn
+jupyterlab
